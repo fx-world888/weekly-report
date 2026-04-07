@@ -3,7 +3,7 @@
 > AI-powered weekly report generator — aggregates your GitHub activity, tasks, and calendar into a polished weekly report.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-purple)](https://clawhub.ai)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-purple)](https://clawhub.ai/skills/weekly-report-fx)
 
 ## ✨ Features
 
@@ -136,5 +136,7 @@ Contributions welcome! Please read the contribution guidelines first.
 MIT © fx-world888
 
 ## 🙏 Acknowledgments
+
+Published on [ClaWHub](https://clawhub.ai/skills/weekly-report-fx) — install with `clawhub install weekly-report-fx`
 
 Built with [OpenClaw](https://github.com/openclaw/openclaw) — the AI gateway that makes building powerful skills easy.
